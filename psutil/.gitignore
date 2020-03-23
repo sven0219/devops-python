@@ -1,0 +1,29 @@
+#from https://github.com/github/gitignore/blob/master/Python.gitignore
+# IntellIj project files
+.idea
+*.iml
+
+# Distribution / packaging
+.Python
+build/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pyre type checker
+.pyre/
+
+# PyBuilder
+.pybuilder/
+target/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
