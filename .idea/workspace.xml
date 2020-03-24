@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cbe30cd8-09e8-4f2d-a0a9-554854ae5214" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dnspython/dnspython01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnspython/dnspython02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnspython/dnspython03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnspython/dnspython04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dnspython/dnspython05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IPy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dnspython/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/psutil/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
